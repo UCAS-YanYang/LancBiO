@@ -1,6 +1,6 @@
 # LancBiO Implementation
 
-Anonymous code repository of "LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Krylov Subspace".
+Code repository of "LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Krylov Subspace".
 
 
 
@@ -42,4 +42,11 @@ $ conda activate lancbio_env
 $ cd ./Code/SytheticProblem
 $ python3 main.py
 ```
+
+<!-- ## Citation
+
+If this repo is useful for your research, please cite our paper: -->
+
+
+
 
