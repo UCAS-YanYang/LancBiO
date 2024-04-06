@@ -13,13 +13,6 @@ Anonymous code repository of "LancBiO: Dynamic Lanczos-aided Bilevel Optimizatio
 - wandb 0.16.0 (We heavily rely on Weights & Biases for visualization and monitoring)
 
 
-
-## Experiments
-
-See Section 2 in `./Supplementary/Supplementary Rebuttal.pdf` for the details of the experiments.
-
-
-
 ## Get Started
 
 You can create a conda environment by simply running the following commands.
