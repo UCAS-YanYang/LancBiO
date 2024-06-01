@@ -43,10 +43,5 @@ $ cd ./Code/SytheticProblem
 $ python3 main.py
 ```
 
-<!-- ## Citation
-
-If this repo is useful for your research, please cite our paper: -->
-
-
 
 
