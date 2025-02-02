@@ -27,7 +27,7 @@ To start training, run
 
 ```bash
 $ conda activate lancbio_env
-$ cd ./Code/LancBiO_deterministic
+$ cd ./Code/LancBiO_hyperclean_dataset    # dataset = Fashion, KMNIST, or MNIST
 $ python3 main.py
 ```
 
