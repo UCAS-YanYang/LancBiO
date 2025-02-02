@@ -39,7 +39,7 @@ $ python3 main.py
 
 ```bash
 $ conda activate lancbio_env
-$ cd ./Code/SytheticProblem
+$ cd ./Code/SyntheticProblem
 $ python3 main.py
 ```
 
