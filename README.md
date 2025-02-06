@@ -8,9 +8,9 @@ Code repository of "LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Kryl
 
 - Ubuntu 20.04 
 - Python 3.8 
-- PyTorch 1.13.1 
+- PyTorch 1.13
 - CUDA 11.7
-- wandb 0.16.0 (We heavily rely on Weights & Biases for visualization and monitoring)
+- wandb 0.16.0 (we rely on "Weights & Biases" for visualization and monitoring)
 
 
 ## Get Started
@@ -42,3 +42,19 @@ $ conda activate lancbio_env
 $ cd ./Code/SyntheticProblem
 $ python3 main.py
 ```
+
+## Authors
+
+- Yan Yang (AMSS, China)
+
+
+
+## Copyright
+
+Copyright (C) 2025, Yan Yang, Bin Gao, Ya-xiang Yuan.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
