@@ -1,6 +1,6 @@
 # LancBiO Implementation
 
-Code repository of the ICLR 2025 paper "LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Krylov Subspace".
+Code repository of the ICLR 2025 paper **LancBiO: Dynamic Lanczos-aided Bilevel Optimization via Krylov Subspace**.
 
 
 
